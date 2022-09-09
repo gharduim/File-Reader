@@ -1,4 +1,4 @@
-# vue-file-reader
+# File-reader
 
 ## Build Setup
 
@@ -66,3 +66,9 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+## Deployed
+
+Live Deployed Application: [View Application](https://vue-file-reader.vercel.app/ "Live Deploy")
+
+This application will run on Chrome, Firefox and Microsoft Edge.
